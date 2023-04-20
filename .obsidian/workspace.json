@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "2e1379adc9c06d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "9090a85cceb42486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337f3d02f200a8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "临时/问题，obsidian不能同步的话，我在公司，家里，手机上三处的记录，就会杂乱，怎么办呢？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "063914701daee793",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd1b4145569f1329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2c206a46d0f80f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0697a117982f84cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b5479c9cd20a20a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8947bc44d5febf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1449eb33adcab2eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8427295ce9e114f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "临时/问题，obsidian不能同步的话，我在公司，家里，手机上三处的记录，就会杂乱，怎么办呢？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e05b58dfbd74bb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "临时/问题，obsidian不能同步的话，我在公司，家里，手机上三处的记录，就会杂乱，怎么办呢？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d40b8d86a60b751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f4796cf70b7f612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "临时/问题，obsidian不能同步的话，我在公司，家里，手机上三处的记录，就会杂乱，怎么办呢？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "337f3d02f200a8ea",
+  "lastOpenFiles": [
+    "项目/如何学习/学习的步骤.md",
+    "临时/问题，obsidian不能同步的话，我在公司，家里，手机上三处的记录，就会杂乱，怎么办呢？.md",
+    "项目/学做导师/评估——评估六步提问法的适用范围.md",
+    "项目/学做导师/学做导师——六步提问法.md",
+    "项目/学做导师/学做导师.md",
+    "临时/未命名.md",
+    "日记/2023年4月18日星期二.md",
+    "项目/如何学习",
+    "日记/2023年4月20日星期四.md",
+    "项目/学做导师",
+    "未命名.md",
+    "永久",
+    "项目",
+    "日记",
+    "临时",
+    "2023-04-18.md",
+    "未命名.canvas"
+  ]
+}
